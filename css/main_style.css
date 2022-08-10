@@ -1,9 +1,4 @@
-Edit in JSFiddle
-Result
-HTML
-CSS
-Resources
-@import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
+
 .team4 {
   font-family: "Montserrat", sans-serif;
 	color: #8d97ad;
@@ -42,3 +37,7 @@ Resources
   transform: translate3d(0px, -5px, 0px);
 	color: #316ce8;
 }
+.azim{
+  color: red;
+}
+
